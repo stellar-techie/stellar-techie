@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **Backend, AI/ML and strengthening myself in dsa**
 
-- 💬 Ask me about **💬 Interested in full stack development, AI/ML, and problem solving**
+- 💬 Ask me about **💬 full stack development, DSA, and problem solving**
 
 - 📫 How to reach me **muskankashyap102004@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1oqAYlpNBo38_AydVgoFOwyLNrAz9aYhM/view?usp=drive_link](https://drive.google.com/file/d/1oqAYlpNBo38_AydVgoFOwyLNrAz9aYhM/view?usp=drive_link)
 
-- ⚡ Fun fact **⚡ I like building things first and figuring them out later..**
+- ⚡ Fun fact **⚡ I like building things first and figure them out later..**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
