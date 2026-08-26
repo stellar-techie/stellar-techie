@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **💬 full stack development, DSA, and problem solving**
 
-- 📫 How to reach me **musu8025@gmail.com@gmail.com**
+- 📫 How to reach me **musu8025@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1oqAYlpNBo38_AydVgoFOwyLNrAz9aYhM/view?usp=drive_link](https://drive.google.com/file/d/1oqAYlpNBo38_AydVgoFOwyLNrAz9aYhM/view?usp=drive_link)
   
