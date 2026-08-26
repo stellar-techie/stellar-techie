@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on [HakiTrackr](https://github.com/stellar-techie/HakiTrackr)
 
-- 🌱 I’m currently learning **Backend, AI/ML and strengthening myself in dsa**
+- 🌱 I’m currently learning **Backend, DevOps, Cybersecurity and strengthening myself in dsa**
 
 - 💬 Ask me about **💬 full stack development, DSA, and problem solving**
 
-- 📫 How to reach me **muskankashyap102004@gmail.com**
+- 📫 How to reach me **musu8025@gmail.com@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1oqAYlpNBo38_AydVgoFOwyLNrAz9aYhM/view?usp=drive_link](https://drive.google.com/file/d/1oqAYlpNBo38_AydVgoFOwyLNrAz9aYhM/view?usp=drive_link)
   
