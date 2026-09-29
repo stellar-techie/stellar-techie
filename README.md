@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Backend, DevOps, Cybersecurity and strengthening myself in dsa**
 
-- 💬 Ask me about **💬 full stack development, DSA, and problem solving**
+- 💬 Ask me about **💬 full stack development, AWS, DSA, and problem solving**
 
 - 📫 How to reach me **musu8025@gmail.com**
 
