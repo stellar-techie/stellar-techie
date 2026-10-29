@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stellar-techie" alt="stellar-techie" /></a> </p>
 
-- 🔭 I’m currently working on [HakiTrackr](https://github.com/stellar-techie/HakiTrackr)
+- 🔭 I’m currently working on [FocusMate](https://github.com/stellar-techie/FocusMate)
 
 - 🌱 I’m currently learning **Backend, DevOps, Cybersecurity and strengthening myself in dsa**
 
